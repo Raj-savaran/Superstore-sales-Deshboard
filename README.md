@@ -15,7 +15,7 @@ Example: • Business Problem The superstore sales generates billions in revenue
 
 Key questions such as:
 Which regions offer the most family-friendly or expert-level skiing? Where is summer skiing available? What countries have the most well-equipped resorts? … are difficult to answer quickly with raw data.
-6. 
-Screenshots
+
+6.Screenshots
 <img width="1916" height="1079" alt="superstore sales report" src="https://github.com/user-attachments/assets/97ee9f31-a007-4aad-bb28-a68f4b0ea01b" />
 
